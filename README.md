@@ -1,5 +1,4 @@
 ## Hi there 👋
-repetir=0
 n1=float(input("ingresa el primer numero:"))
 n2=float(input("ingresa el segundo numero:"))
 suma=n1+n2
