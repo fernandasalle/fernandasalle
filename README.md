@@ -1,16 +1,16 @@
 ## Hi there 👋
-
-<!--
-**fernandasalle/fernandasalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+repetir=0
+n1=float(input("ingresa el primer numero:"))
+n2=float(input("ingresa el segundo numero:"))
+suma=n1+n2
+restan=1-n2
+multiplicacion=n1*n2
+potencia=n1**n2
+division=n1/n2
+print("la suma es",suma)
+print("la resta es",resta)
+print("la multiplicacion es",multiplicacion)
+print("la potencia es",potencia)
+print("la division es",division)
+while(repetir==0):
+end
